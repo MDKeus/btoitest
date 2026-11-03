@@ -40,7 +40,7 @@ As exporting to different formats is possible, it is not always desired. Some co
 ```{figure} figures/delft.*
 :label: fig-delft
 :alt: picture of the TUD
-
+vf bgf bg
 A figure that is in the website but not in the PDF version.
 ```
 +++
